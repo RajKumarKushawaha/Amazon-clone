@@ -1,5 +1,5 @@
 # Amazon-clone
-The Amazon Clone is a front-end web project that replicates the core design and layout of the Amazon website. Built using HTML and CSS, this project showcases proficiency in creating a responsive, visually appealing website.
+The Amazon Clone is a front-end web project that replicates the core design and layout of the Amazon website. Built using HTML and CSS, this project showcases proficiency in creating a responsive or visually appealing website.
 
 Features
 * Responsive Design: Adjusts seamlessly for desktop, tablet, and mobile views.
